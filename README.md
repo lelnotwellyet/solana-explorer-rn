@@ -23,6 +23,11 @@ All data is fetched directly from the Solana Mainnet RPC.
 - ⏱ Human-readable "time ago" formatting
 - 🔗 Open transactions in Solscan
 - 📱 Clean dark-themed mobile UI
+- ## 🧪 Demo Mode
+
+For quick testing, the app includes a **Demo** button.
+
+When clicked, it automatically pre-fills a sample public wallet address (Toly's public key) so users can instantly explore real on-chain data without manually entering an address.
 
 ---
 
